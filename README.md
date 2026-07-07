@@ -54,9 +54,6 @@ index.html
 | A | Move Left |
 | S | Move Backward |
 | D | Move Right |
-| Mouse | Look Around |
-| Shift | Run (if enabled) |
-| Esc | Pause / Exit |
 
 ---
 
